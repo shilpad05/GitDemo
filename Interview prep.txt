@@ -1,0 +1,53 @@
+1) Questions to ask to the recruiter
+
+ans) what are the keychallenges for the one who is starting the internship
+or 
+what success look like for somebody who is completing the internship
+
+what are the biggest challenges that company is facing now?
+
+As you have said you have been working in optum since 5 years What would you like working in optum?
+
+How would you describe the work culture  here?
+
+2) Tell me about yourself not in CV
+
+Ans) Well the things not in my CV,as you know my name is shilpa i live in Sandyford,Dublin.Basically am from hyderbad,India.I have one daughter and my husband is working for irish company.We came to ireland two years back.I am very passionate about learning new things ,I have started learning tableau and Devops course in my spare time.I love playing badminton,we played good matches during the summer.
+
+3)if you were put under pressue how would handle this?
+
+Ans ) In such situations i will try to stay calm,i will try not get stress by priortizing the things and by taking help from other collegues online sources.I will give an example about this in my  previous project ,we were given a set of reports to develop with in a short period of time and  only two of us were allocated to that project.Initially we thought it would be complete but lateron analysing the critcality of the reports we found it difficult to deliver the reports in short time.So we had a meeting with our team lead and told her that it will not be possible as there crtical functions to be implemented in the report and it will go beyond the deadline.We tried to convince the client breiefing about the complexity of the reports and we promised that few reports will be delivered first and later on we will deploying the next set of reports.As said we had managed to finsih the project with accurate results.
+
+4) Where do you see yourself in 5 years?
+
+Ans) My big focus for the moment is to start my career again,as you can see in my cv my last work experience was 2 years ago and i completed the reboot program successfully.I worked hard to get back to career again.Once i secure a job most important thing will be to do that job well.If i do agood job ,my plan would be to get extra responsibilities overtime and keep progressing in handling the work.Hopefully getting promoted  and upskilling with new technologies to contibute to the company.
+
+5) What is your strenght and weakness?
+Ans) My stregnths are am proactive in asking for extra responsibities and am good team player.I worked in different teams where i have shared my knowledge and also took suggestion from  other's irrespective pf their experience.
+Example for Proactive: I am cognos developer and also i was part of applicaton support team for few cognos applications,in that support role i have asked  for additional work as our cognos applications were stable.I have asked i will be looking in to SAP BO tickets,i have handled the SAP BO admin tickets all alone.
+Good Team Player : i worked in team of 5 with dfferent experiences ,we used to  consider each other ideas irrespective of the experience. I managed to oraganize to team meetings to know the staus of the work. I was part of extra cultural team where we have organised fun events every friday and have  organised Team lunch parties.
+
+Weakness
+
+i have difficult saying No.Though am overloaded i used to do the extra work which they have asked for.Then i realised i was under stress,so i have started saying No in convinicing manner.I used to say yes i can do this work but first i need to finish my priorties then i will handle this later or can you please assign it to someone else who has bandwidth.
+
+Constructive feedback :
+
+Nothing comes to mind,but am the person who contsantly said yes for any additinal work they have asked  the i realised i was under stress and later on i said yes i can but i need to finish the core work.
+
+6) If you were given project immedieatly how would you handle?
+Ans) Yes,i will try to complete the project if some initial training is provided.First i will try to ask questions to understand the requirement of project,and then once i started i will try to establish the connections across to ask for any clarifcations and if am working under team will try to organsie team meetings to disccus the status (any issues or any challenges) and will see to that alll of us are on same page.I will do my best in delivering the project with in deadline.
+
+7) What is favourite part of project?
+Ans) We have done scheduling of the report to user email address that reduced manual work .It was very efficient for us and Customers were also happy that they will automatically  receive the report directly to their mail address.
+
+8) Why are you interested in internship?
+
+ Ans)Well i know you are part of united health group,you are in the health industry which is growing at the moment ,i think is is very exciting and progressive industy to be in.Specfic to this internship role it involves scripting and coding,i had learnt theortical concepts ,using this opportunity would like to gainmore practical knowledge.
+
+9) why should we hire you?
+Ans) As few of my skills crossover with the skills required,am very hard working.I take my job seriously.People will be comfortable working  with me.I will help peaople wen i can.I am passoniate about learning new technical skills.As you do great health services i want to be part of the great company.
+
+10)Tell me about yourself
+
+Hi.... Myself shilpa,I am from India.I graduated in IT from JNTU.I started my career with TCS,i was with same company for almost 6 and half years.I worked as Cognos Developer for different migration projects like SAP BO to cognos,Cognos 7 to cognos 10.I worked in application support team supporting cognos  and SAP BO applications.I received appreciations for on time delivery of project.Received good team player award.I resigned tcs to join my husband in Ireland.I took career break to take care of my daughter.Durings this breaak  have learnt tableau,DevOps and completed certification in it.This july i have complete Woment Rebbot Program which gave the confidence to restart my career. So Currently am working hard to find the opportunity to utilize my skills and also develop skills further.
